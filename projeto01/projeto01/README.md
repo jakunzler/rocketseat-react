@@ -58,6 +58,7 @@ projeto01/
 │   ├── assets/
 │   │   └── ...
 │   ├── components/
+│   │   └── ...
 │   ├── App.module.css
 │   ├── App.tsx
 │   ├── global.css
