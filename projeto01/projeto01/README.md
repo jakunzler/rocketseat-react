@@ -12,40 +12,44 @@ ___
 
 ## 🎨 Layout
 
-O layout do projeto está disponível no figma por meio [DESSE LINK](https://www.figma.com/design/0n0zDN7zbzhRbaEO74Xesx/ToDo-List-%E2%80%A2-Desafio-React/duplicate?node-id=0-1).
+The project layout is available on figma platform by clicking [HERE](https://www.figma.com/design/0n0zDN7zbzhRbaEO74Xesx/ToDo-List-%E2%80%A2-Desafio-React/duplicate?node-id=0-1).
 
 ![Alt text](src/assets/images/Capa.png)
 
 ___
 
-## 🚀 Como reaproveitar o projeto?
+## 🚀 Reusing the project
 
-Clone o projeto para o local desejado em seu computador.
+Clone the projeto to a local directory.
 
 ```bash
-git clone https://github.com/jakunzler/foodExplorer-frontend
+git clone https://github.com/jakunzler/rocketseat-react
+```
+
+Considering you are already in the repository's directory, you will find the files changing the directory two times under the name of `projeto01'.
+
+```bash
+cd projeto01
+cd projeto01
 ```
 
 ___
 
-### 🚧 Executando o FrontEnd
+### 🚧 Running the application
 
 ```bash
-# Navegue até o diretório do FrontEnd
-$ cd foodExplorer-frontend
-
-# Instale as dependências necessárias
+# Install dependencies
 $ yarn
 
-# Agora inicie o servidor do FrontEnd
+# Start the application
 $ yarn dev
 ```
 
 ___
 
-## Estrutura de pastas
+## Folder structure
 
-```markdown
+```txt
 projeto01/
 ├── node_modules/
 │   └── ...
@@ -70,10 +74,10 @@ projeto01/
 └── yarn.lock
 ```
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ___
 
-Feito com 💜 by Jonas Augusto Kunzler 👋
+Made with 💜 by Jonas Augusto Kunzler 👋
